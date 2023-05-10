@@ -1,6 +1,6 @@
 ## Olá! Eu me chamo Iuri Santana 👋
-Atualmente estou aprendendo HTML, CSS e JS. 🔥 <br>
-I am currently learning HTML, CSS and JS. 🔥
+Atualmente estou aprendendo React, NodeJs e TypeScript. 🔥 <br>
+I am currently learning React, NodeJs and TypeScript. 🔥
 <div style="display: inline_block"><br>
   <img align="center" alt="San-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="San-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
