@@ -60,6 +60,7 @@ ERP financeiro com arquitetura em microsserviços, APIs REST em NestJS, frontend
 ![RAG](https://img.shields.io/badge/RAG-6E40C9?style=flat-square&logo=databricks&logoColor=white)
 ![Fine-tuning](https://img.shields.io/badge/Fine--tuning-FF6F00?style=flat-square&logo=huggingface&logoColor=white)
 ![Guardrails](https://img.shields.io/badge/Guardrails-2E7D32?style=flat-square&logo=shield&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 
 **Infra & Ferramentas**
 
